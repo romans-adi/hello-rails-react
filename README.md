@@ -221,8 +221,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 Please adhere to the coding conventions and guidelines specified in the project.
 
-Feel free to check the [issues page](../../issues/).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
