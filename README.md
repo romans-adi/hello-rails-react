@@ -105,11 +105,18 @@ To run this project locally, follow these steps:
 2. Navigate to the directory where you have cloned or downloaded the Hello Rails React repository.
 
 3. Run the following commands to install any required dependencies:
-```bundle install```
 
-```npm install```
+```
+bundle install
+```
 
-```yarn install```
+```
+npm install
+```
+
+```
+yarn install
+```
 
 ### Usage 🧰<a name="usage"></a>
 
