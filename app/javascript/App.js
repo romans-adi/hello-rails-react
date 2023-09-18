@@ -1,9 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { Provider } from 'react-redux';
 import Greeting from './components/Greeting';
+import store from './redux/store';
 
-function App() {
-  return (
+const App = () => (
+  <Provider store={store}>
     <Router>
       <div>
         <Switch>
@@ -11,7 +13,7 @@ function App() {
         </Switch>
       </div>
     </Router>
-  );
-}
+  </Provider>
+);
 
 export default App;
